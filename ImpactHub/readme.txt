@@ -11,7 +11,7 @@ Maria Vitoria Rodrigues
 ## Tecnologias
 - React
 - Spring Boot
-- MySQL
+
 
 -- Como executar o backend
 
